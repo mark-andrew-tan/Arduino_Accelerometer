@@ -19,3 +19,9 @@ The servo motor had an arm attached that would act as the analog display.
 The components would be attached to a cardboard box enclosing and strapped to a belt around my waist.
 
 ![GitHub Dark](https://github.com/mark-andrew-tan/Arduino_Accelerometer/blob/main/images/accelerometer_belt_demo.png)
+
+### Development
+
+***
+
+
