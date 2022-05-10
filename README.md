@@ -20,8 +20,8 @@ The components would be attached to a cardboard box enclosing and strapped to a 
 
 ![GitHub Dark](https://github.com/mark-andrew-tan/Arduino_Accelerometer/blob/main/images/accelerometer_belt_demo.png)
 
-### Development
+![GitHub Dark](https://github.com/mark-andrew-tan/Arduino_Accelerometer/blob/main/squat_extended.png
+)
 
-***
 
 
